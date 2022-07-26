@@ -27,3 +27,6 @@ Thus, the Online Code Editor,
 > Has Syntax Highlighting, Line Number and Auto Tag Close Functionality
 
 > Has 2 layout options for better viewing experience
+
+
+NOTE: Please extract and paste the codemirror-5.65.3.rar file inside the project file before running the project has its contains plugins used for code highlightings and other functions
